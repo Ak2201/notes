@@ -524,7 +524,7 @@ public class Dashboard extends AppCompatActivity implements OnItemSelectedListen
             }
         }
         return true;
-        
+
     }
 
     private void requestPerms() {
